@@ -1,4 +1,5 @@
 # prototype_trybu
+
 <table>
     <tr>
         <th>
@@ -14,9 +15,7 @@
         
         <th>
             tela de Opiniões
-        </th>
-        
-        
+        </th> 
         <th>
             tela de Pesquizar
         </th>
