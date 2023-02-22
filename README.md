@@ -1,28 +1,26 @@
 # prototype_trybu
 <table>
-    <th>
     <tr>
-        <td>
+        <th>
             tela de Feeds
-        </td>
-        <td>
+        </th>
+        <th>
             tela de Entidades
-        </td>
+        </th>
         
-        <td>
+        <th>
             tela de Negócios
-        </td>
+        </th>
         
-        <td>
+        <th>
             tela de Opiniões
-        </td>
+        </th>
         
         
-        <td>
+        <th>
             tela de Pesquizar
-        </td>
+        </th>
     </tr>
-</th>
     <tr>
         <td>
             <img src='https://github.com/Katsu-vie/proto_trybu/blob/main/assets/T1.jpeg?raw=true' width='100'>
