@@ -1,2 +1,2 @@
 # proto_trybu
-Prototype for the startup Trybu
+<h1>Prototype for the startup Trybu</h1>
